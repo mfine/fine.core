@@ -4,6 +4,10 @@
 
 Fine's core libraries.
 
+## Installation
+
+[![Current Version](https://clojars.org/fine.core/latest-version.svg)](https://clojars.org/fine.core)
+
 ## License
 
 Copyright © 2014 Mark Fine
