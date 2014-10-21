@@ -4,4 +4,5 @@
   :author "mfine"
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
-  :dependencies [[org.clojure/clojure "1.6.0"]])
+  :dependencies [[org.clojure/clojure "1.6.0"]]
+  :deploy-repositories [["clojars" {:sign-releases false}]])
